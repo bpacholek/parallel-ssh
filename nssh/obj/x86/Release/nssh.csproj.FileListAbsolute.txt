@@ -1,0 +1,7 @@
+C:\Users\Bartosz\Documents\Visual Studio 2010\Projects\nssh\nssh\bin\Release\nssh.exe
+C:\Users\Bartosz\Documents\Visual Studio 2010\Projects\nssh\nssh\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Bartosz\Documents\Visual Studio 2010\Projects\nssh\nssh\obj\x86\Release\nssh.exe
+C:\Users\Bartosz\Documents\Visual Studio 2010\Projects\nssh\nssh\bin\Release\nssh.exe.config
+C:\Users\Bartosz\Documents\Visual Studio 2010\Projects\nssh\nssh\bin\Release\DiffieHellman.dll
+C:\Users\Bartosz\Documents\Visual Studio 2010\Projects\nssh\nssh\bin\Release\Org.Mentalis.Security.dll
+C:\Users\Bartosz\Documents\Visual Studio 2010\Projects\nssh\nssh\bin\Release\Tamir.SharpSSH.dll

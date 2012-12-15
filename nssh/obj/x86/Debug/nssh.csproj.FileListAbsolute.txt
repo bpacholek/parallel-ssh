@@ -1,0 +1,6 @@
+C:\Users\Bartosz\Documents\Visual Studio 2010\Projects\nssh\nssh\bin\Debug\nssh.exe
+C:\Users\Bartosz\Documents\Visual Studio 2010\Projects\nssh\nssh\bin\Debug\nssh.pdb
+C:\Users\Bartosz\Documents\Visual Studio 2010\Projects\nssh\nssh\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bartosz\Documents\Visual Studio 2010\Projects\nssh\nssh\obj\x86\Debug\nssh.exe
+C:\Users\Bartosz\Documents\Visual Studio 2010\Projects\nssh\nssh\obj\x86\Debug\nssh.pdb
+C:\Users\Bartosz\Documents\Visual Studio 2010\Projects\nssh\nssh\bin\Debug\nssh.exe.config
